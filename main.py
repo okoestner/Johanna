@@ -1,4 +1,7 @@
-geheimnis = 1
+import random
+
+geheimnis = random.randint(1,50)
+
 versuch = -1
 zeahler = 0
 
